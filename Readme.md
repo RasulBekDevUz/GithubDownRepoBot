@@ -1,3 +1,5 @@
 Install 
-https://github.com/RasulBekDevUz/GithubDownRepoBot
-git clone 
+
+
+git clone https://github.com/RasulBekDevUz/GithubDownRepoBot
+ 
